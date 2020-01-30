@@ -1,4 +1,4 @@
-# UNSUSoftware
+# UNSUmacSoftware
 # This will contain links to download any software you may find useful for your old Mac.
 
 TenFourFox: A great web browser based on FireFox ESR 45. Make sure to pick the version for your processor:
